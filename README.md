@@ -1,6 +1,6 @@
-# 📝 React Todo App
+# 📝 nextjs Todo App
 
-A feature-rich Todo application built with **React 19**, **TanStack Router v7**, **React Query (TanStack Query)**, **Tailwind CSS**, and **ShadCN UI**. This app consumes the [DummyJSON Todo API](https://dummyjson.com/) to demonstrate full CRUD functionality, pagination, filtering, accessibility, and offline caching.
+A feature-rich Todo application built with  **nextjs**  **React 19**, **TanStack Router v7**, **React Query (TanStack Query)**, **Tailwind CSS**, and **ShadCN UI**. This app consumes the [DummyJSON Todo API](https://dummyjson.com/) to demonstrate full CRUD functionality, pagination, filtering, accessibility, and offline caching.
 
 ---
 
@@ -87,7 +87,7 @@ cd Todo-App
 npm install
 Run the development server:
 npm run dev
-The app will be available at http://localhost:5173 by default.
+The app will be available at http://localhost:3000 by default.
 
 #📦 Build for Production
 To generate a production-ready build:
